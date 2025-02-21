@@ -56,11 +56,21 @@ Topologi 4 PC
 
 <img src="https://github.com/user-attachments/assets/0f5fd4e7-6d5f-4548-929a-c121619a32cb" alt="image" width="200">
 
-![Screenshot 2025-02-21 224117](https://github.com/user-attachments/assets/0f5fd4e7-6d5f-4548-929a-c121619a32cb)
-
 13.ip addres pc 6
 
 <img src="https://github.com/user-attachments/assets/b22a794f-d63c-434e-ad8c-f79f944531ba" alt="image" width="200">
+
+14.switch vtp server
+
+<img src="https://github.com/user-attachments/assets/51f2cc94-380e-40c9-852a-9ad1598d4f69" alt="image" width="200">
+
+<img src="https://github.com/user-attachments/assets/356eb984-c1a2-4cf1-8dc7-b00b2f353a95" alt="image" width="200">
+
+15.switch vtp client
+
+<img src="https://github.com/user-attachments/assets/2f3da6ef-40f3-4e0c-a20c-4c7cf2884d01" alt="image" width="200">
+
+<img src="https://github.com/user-attachments/assets/eeace97d-e2d0-4a72-8fb0-5821a0e9013b" alt="image" width="200">
 
 
 
