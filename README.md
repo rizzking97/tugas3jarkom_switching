@@ -32,6 +32,8 @@ Topologi 4 PC
 
 <img src="https://github.com/user-attachments/assets/bb19b526-b05c-4c03-9f6a-99244492677e" alt="image" width="200">
 
+Topologi 6 PC
+
 7.contoh rangkaian switch vtp server & client
 
 <img src="https://github.com/user-attachments/assets/839801fd-a82f-458e-a444-a10a228cd2d3" alt="image" width="200">
